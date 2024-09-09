@@ -1,1 +1,1 @@
-This is my code file using git hub
+this is my first code in git
